@@ -80,33 +80,15 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
-
-
-
-
-
-
+## prpgram:
+![output](./i5.png)
+![output](./i6.png)
+![output](./i7.png)
+![output](./i8.png)
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
