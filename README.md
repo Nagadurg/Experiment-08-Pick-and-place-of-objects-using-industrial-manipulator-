@@ -81,7 +81,7 @@ and click on the connect icon
 
 3. click on the 
 ### output video and screen shots of pick and place 
-## prpgram:
+## program:
 ![output](./i5.png)
 ![output](./i6.png)
 ![output](./i7.png)
